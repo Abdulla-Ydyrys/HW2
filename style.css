@@ -1,0 +1,22 @@
+.container{
+            margin-top: 100px; 
+            width: 400px;
+            border: 2px solid #5bc0de;
+            padding-bottom: 40px; 
+            border-radius: 8px;
+            background-color: white;    
+}
+body {
+            background-image: url("back-image.jpg");
+            height: 100%; 
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+}
+p,input.btn{
+            margin-top: 30px;
+}
+.possleft{
+            margin-top: 30px;
+            margin-left: 60px;
+}
